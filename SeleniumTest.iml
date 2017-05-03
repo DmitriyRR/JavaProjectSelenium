@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://D:/forSelenium/client-combined-3.4.0-nodeps.jar!/" />
+    <libelement value="jar://D:/forSelenium/selenium-server-standalone-3.4.0.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/cglib-nodep-3.2.4.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/commons-codec-1.10.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/commons-exec-1.3.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/commons-io-2.5.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/commons-lang3-3.5.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/commons-logging-1.2.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/cssparser-0.9.22.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/gson-2.8.0.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/guava-21.0.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/hamcrest-core-1.3.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/htmlunit-2.26.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/htmlunit-core-js-2.26.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/htmlunit-driver-2.26.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/httpclient-4.5.3.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/httpcore-4.4.6.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/httpmime-4.5.3.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/javax.servlet-api-3.1.0.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/jetty-io-9.4.1.v20170120.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/jetty-util-9.4.1.v20170120.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/jna-4.1.0.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/jna-platform-4.1.0.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/junit-4.12.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/neko-htmlunit-2.25.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/phantomjsdriver-1.4.0.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/sac-1.3.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/serializer-2.7.2.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/websocket-api-9.4.3.v20170317.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/websocket-client-9.4.3.v20170317.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/websocket-common-9.4.3.v20170317.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/xalan-2.7.2.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/xercesImpl-2.11.0.jar!/" />
+    <libelement value="jar://D:/forSelenium/lib/xml-apis-1.4.01.jar!/" />
+    <libelement value="jar://D:/forSelenium/junit-4.10.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target2" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="client-combined-3.4.0-nodeps.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/client-combined-3.4.0-nodeps.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="selenium-server-standalone-3.4.0.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/selenium-server-standalone-3.4.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cglib-nodep-3.2.4.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/cglib-nodep-3.2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec-1.10.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/commons-codec-1.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-exec-1.3.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/commons-exec-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-2.5.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/commons-io-2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang3-3.5.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/commons-lang3-3.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-1.2.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/commons-logging-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cssparser-0.9.22.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/cssparser-0.9.22.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gson-2.8.0.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/gson-2.8.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="guava-21.0.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/guava-21.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hamcrest-core-1.3.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/hamcrest-core-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="htmlunit-2.26.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/htmlunit-2.26.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="htmlunit-core-js-2.26.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/htmlunit-core-js-2.26.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="htmlunit-driver-2.26.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/htmlunit-driver-2.26.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient-4.5.3.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/httpclient-4.5.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore-4.4.6.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/httpcore-4.4.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpmime-4.5.3.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/httpmime-4.5.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.servlet-api-3.1.0.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/javax.servlet-api-3.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-io-9.4.1.v20170120.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/jetty-io-9.4.1.v20170120.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-util-9.4.1.v20170120.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/jetty-util-9.4.1.v20170120.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jna-4.1.0.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/jna-4.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jna-platform-4.1.0.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/jna-platform-4.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junit-4.12.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/junit-4.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="neko-htmlunit-2.25.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/neko-htmlunit-2.25.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="phantomjsdriver-1.4.0.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/phantomjsdriver-1.4.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sac-1.3.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/sac-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="serializer-2.7.2.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/serializer-2.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="websocket-api-9.4.3.v20170317.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/websocket-api-9.4.3.v20170317.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="websocket-client-9.4.3.v20170317.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/websocket-client-9.4.3.v20170317.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="websocket-common-9.4.3.v20170317.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/websocket-common-9.4.3.v20170317.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xalan-2.7.2.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/xalan-2.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xercesImpl-2.11.0.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/xercesImpl-2.11.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xml-apis-1.4.01.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/lib/xml-apis-1.4.01.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junit-4.10.jar">
+        <CLASSES>
+          <root url="jar://D:/forSelenium/junit-4.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="TEST" name="Maven: net.lightbody.bmp:browsermob-proxy:2.0-beta-8" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.slf4j:slf4j-jdk14:1.5.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.slf4j:slf4j-api:1.5.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.google.sitebricks:sitebricks:0.8.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.mvel:mvel2:2.0.18" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.intellij:annotations:7.0.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: commons-httpclient:commons-httpclient:3.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: commons-lang:commons-lang:2.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: dom4j:dom4j:1.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: jaxen:jaxen:1.1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: jdom:jdom:1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: xom:xom:1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: xerces:xmlParserAPIs:2.6.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.ibm.icu:icu4j:2.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: saxpath:saxpath:1.0-FCS" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: javax.servlet:servlet-api:2.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.thoughtworks.xstream:xstream:1.3.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: xpp3:xpp3_min:1.1.4c" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jsoup:jsoup:1.4.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.freemarker:freemarker:2.3.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.google.inject.extensions:guice-multibindings:3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.codehaus.jackson:jackson-core-asl:1.7.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.7.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpmime:4.2.3" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:1.3.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: net.sf.jopt-simple:jopt-simple:3.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.ant:ant:1.8.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apache.ant:ant-launcher:1.8.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.bouncycastle:bcprov-jdk15on:1.47" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.eclipse.jetty:jetty-server:7.3.0.v20110203" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.eclipse.jetty:jetty-continuation:7.3.0.v20110203" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-http:7.3.0.v20110203" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.eclipse.jetty:jetty-servlet:7.3.0.v20110203" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.eclipse.jetty:jetty-security:7.3.0.v20110203" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.google.inject:guice:3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: aopalliance:aopalliance:1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.google.inject.extensions:guice-servlet:3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: net.jcip:jcip-annotations:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.3.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.3.2" level="project" />
+    <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.1.3" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-java:3.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-api:3.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:3.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-edge-driver:3.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:3.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-ie-driver:3.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-opera-driver:3.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-remote-driver:3.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-safari-driver:3.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-support:3.4.0" level="project" />
+    <orderEntry type="library" name="Maven: cglib:cglib-nodep:3.2.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-exec:1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.5" level="project" />
+    <orderEntry type="library" name="Maven: org.w3c.css:sac:1.3" level="project" />
+    <orderEntry type="library" name="Maven: net.sourceforge.cssparser:cssparser:0.9.22" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:21.0" level="project" />
+    <orderEntry type="library" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Maven: net.sourceforge.htmlunit:htmlunit:2.26" level="project" />
+    <orderEntry type="library" name="Maven: net.sourceforge.htmlunit:htmlunit-core-js:2.26" level="project" />
+    <orderEntry type="library" name="Maven: net.sourceforge.htmlunit:neko-htmlunit:2.25" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-io:9.4.1.v20170120" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-util:9.4.1.v20170120" level="project" />
+    <orderEntry type="library" name="Maven: net.java.dev.jna:jna:4.1.0" level="project" />
+    <orderEntry type="library" name="Maven: net.java.dev.jna:jna-platform:4.1.0" level="project" />
+    <orderEntry type="library" name="Maven: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Maven: com.codeborne:phantomjsdriver:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:htmlunit-driver:2.26" level="project" />
+    <orderEntry type="library" name="Maven: javax.servlet:javax.servlet-api:3.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty.websocket:websocket-api:9.4.3.v20170317" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty.websocket:websocket-client:9.4.3.v20170317" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-client:9.4.3.v20170317" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty.websocket:websocket-common:9.4.3.v20170317" level="project" />
+    <orderEntry type="library" name="Maven: xalan:serializer:2.7.2" level="project" />
+    <orderEntry type="library" name="Maven: xalan:xalan:2.7.2" level="project" />
+    <orderEntry type="library" name="Maven: xerces:xercesImpl:2.11.0" level="project" />
+    <orderEntry type="library" name="Maven: xml-apis:xml-apis:1.4.01" level="project" />
+  </component>
+</module>
