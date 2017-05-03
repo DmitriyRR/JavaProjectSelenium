@@ -20,6 +20,13 @@
                     <artifactId>selenium-api</artifactId>
                 </exclusion>
             </exclusions>
+<exclusions>
+                <exclusion>
+                    <groupId>org.seleniumhq.selenium</groupId>
+                    <artifactId>selenium-api</artifactId>
+                </exclusion>
+            </exclusions>
+
         </dependency>
         <!-->For Apache<-->
         <dependency>
