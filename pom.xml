@@ -7,7 +7,7 @@
     <artifactId>SeleniumTest</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>rfr
-        <!-->For browsermob<frefrfefer-->
+        <!-->For browsermob<fwefwfwewefwefweffrefrfefer-->
         <dependency>
             <groupId>net.lightbody.bmp</groupId>
             <artifactId>browsermob-proxy</artifactId>
